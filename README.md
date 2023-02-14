@@ -23,13 +23,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [porfolio] <a name="about-project">https://github.com/Amazinggracee/Hello-Microverse</a>
+# 📖 [hello microverse] <a name="about-project">https://github.com/Amazinggracee/Hello-Microverse</a>
 
-My website Portfolio.
+My hello.
 
 This is my Hello-Microverse project .
 
-# 📖 [Online link porfolio] <a name="about-project">https://github.com/Amazinggracee/Hello-Microverse</a>
+# 📖 [Online link hello-microverse] <a name="about-project">https://github.com/Amazinggracee/Hello-Microverse</a>
 
 In this project:
 - [ ] Make sure that there are no linter errors.
