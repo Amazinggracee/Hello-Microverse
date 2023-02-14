@@ -23,13 +23,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [porfolio] <a name="about-project">https://github.com/Amazinggracee/Hello-Microverse</a>
+# 📖 [hello microverse] <a name="about-project">https://github.com/Amazinggracee/Hello-Microverse</a>
 
 My website Portfolio.
 
 This is my Hello-Microverse project .
 
-# 📖 [Online link porfolio] <a name="about-project">https://github.com/Amazinggracee/Hello-Microverse</a>
+# 📖 [Online link microverse] <a name="about-project">https://github.com/Amazinggracee/Hello-Microverse</a>
 
 In this project:
 - [ ] Make sure that there are no linter errors.
@@ -62,7 +62,7 @@ The entire project was built with only HTML5 and CSS3
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started">Portfolio Repository</a>
+## 💻 Getting Started <a name="getting-started">Hello Microverse</a>
 
 My goal here is to master all of the tools and best practices I learned about in previous steps.
 
