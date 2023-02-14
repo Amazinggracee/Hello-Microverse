@@ -23,22 +23,17 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [hello microverse] <a name="about-project">https://github.com/Amazinggracee/Hello-Microverse</a>
+# 📖 [hello microverse] <a name="">https://github.com/Amazinggracee/Hello-Microverse</a>
 
 My hello.
 
 This is my Hello-Microverse project .
 
-<<<<<<< HEAD
-# 📖 [Online link microverse] <a name="about-project">https://github.com/Amazinggracee/Hello-Microverse</a>
-=======
-
-
 In this project:
-- [ ] Make sure that there are no linter errors.
-- [ ] Make sure that you used the correct GitHub flow.
-- [ ] Make sure that you documented your work in a professional way.
-- [ ] Follow our list of best practices for HTML & CSS.
+- [ ] I made sure that there are no linter errors.
+- [ ] I made sure that you used the correct GitHub flow.
+- [ ] I made sure that you documented your work in a professional way.
+- [ ] I followed our list of best practices for HTML & CSS.
 
 # 🛠 Built With <a name="built-with">Technologies</a>
 
@@ -72,11 +67,7 @@ My goal here is to master all of the tools and best practices I learned about in
 Accessibility List:
 
 List all points that you have checked, i.e:
-1. Page titles
-2. Image text alternatives
-3. Text headings
-4. Color contrast
-5. Resize
+1. Page title
 
 
 
