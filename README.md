@@ -25,11 +25,14 @@
 
 # 📖 [hello microverse] <a name="about-project">https://github.com/Amazinggracee/Hello-Microverse</a>
 
-My website Portfolio.
+My hello.
 
 This is my Hello-Microverse project .
 
+<<<<<<< HEAD
 # 📖 [Online link microverse] <a name="about-project">https://github.com/Amazinggracee/Hello-Microverse</a>
+=======
+
 
 In this project:
 - [ ] Make sure that there are no linter errors.
